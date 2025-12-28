@@ -35,7 +35,7 @@ body{
 
 .add-button:hover{
   transform: translateY(-2px);
-  scale: 1.1;
+  background-color: rgb(114, 16, 16);
 }
 
 .add-button:active{
