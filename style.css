@@ -24,6 +24,7 @@ body{
 
 .add-button{
   padding: 10px 60px;
+  width: 270px;
   border-radius: 10px;
   border: none;
   background-color: rgb(69, 6, 6);
@@ -44,6 +45,7 @@ body{
 
 .input-field{
   border: none;
+  width: 230px;
   background-color: #F5D2C4;
   padding: 10px 15px;
   border-radius: 5px;
